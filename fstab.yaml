@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p241457-e2403663.adobeaemcloud.com/bin/franklin.delivery/NatsukiFujiwara-ADLS/aem-ue8/main"
+    type: "markup"
+    suffix: ".html"
